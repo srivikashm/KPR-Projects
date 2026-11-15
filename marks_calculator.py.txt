@@ -1,0 +1,25 @@
+print(STUDENT MARKS CALCULATOR)
+
+name = input(Enter student name )
+
+m1 = int(input(Enter English marks ))
+m2 = int(input(Enter Maths marks ))
+m3 = int(input(Enter Physics marks ))
+m4 = int(input(Enter Chemistry marks ))
+m5 = int(input(Enter Computer marks ))
+
+total = m1 + m2 + m3 + m4 + m5
+percentage = total  5
+
+print(n--- STUDENT RESULT ---)
+print(Name, name)
+print(Total, total,  500)
+print(Percentage, percentage, %)
+
+if all(0 = mark = 100 for mark in [m1, m2, m3, m4, m5])
+    if all(mark = 35 for mark in [m1, m2, m3, m4, m5])
+        print(Result PASS)
+    else
+        print(Result FAIL)
+else
+    print(Invalid marks! Enter marks between 0 and 100.)
