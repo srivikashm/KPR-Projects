@@ -1,0 +1,32 @@
+Student Marks Calculator
+
+About
+
+A beginner-friendly Python project that calculates student marks, total, percentage and pass/fail results.
+
+Features
+
+* Accepts student name
+* Takes marks for five subjects
+* Calculates total marks out of 500
+* Calculates percentage
+* Displays PASS or FAIL status
+* Checks for invalid marks
+
+Technologies Used
+
+* Python 3
+
+How to Run
+
+1. Download marks_calculator.py.
+2. Open a terminal in the project folder.
+3. Run:
+
+python marks_calculator.py
+
+Author
+
+Sri Vikash M
+
+First-year Artificial Intelligence and Data Science Student.
